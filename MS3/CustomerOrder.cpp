@@ -12,7 +12,7 @@
 using namespace std;
 
 namespace sict {
-	size_t CustomerOrder::FW = 12;
+	size_t CustomerOrder::FW = 11;
 
 	CustomerOrder::CustomerOrder() {
 		customer_name = "";
